@@ -1,5 +1,5 @@
 void main(){
-  int size = 8;
+  int size =12;
 
   if (size==4) {
     print("shoe size is 4");
