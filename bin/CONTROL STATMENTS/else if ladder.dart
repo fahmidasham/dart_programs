@@ -19,4 +19,7 @@ void main(){
   else if(size==9){
     print("shoe size is 9");
   }
+  else {
+  print("size is not available");
+}
 }
