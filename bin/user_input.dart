@@ -8,7 +8,7 @@ void main(){
   print('enter your mark');
   double? mark=double.parse(stdin.readLineSync()!);
 
-  stdout.writeln('name=$name');
+  stdout.writeln('name=$name');// stdout is used as like a print option
   stdout.writeln('age=$age');
   stdout.writeln("mark=$mark");
 }
