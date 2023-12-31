@@ -1,12 +1,10 @@
 class Housename{
   String hname ="palliparambil";
-}class Grandfather extends Housename{
+}  class Grandfather extends Housename{
   String gname ="shukoor";
-}
-class Father extends Grandfather{
+}  class Father extends Grandfather{
   String fname="shameem";
-}
-class Son extends Father{
+}  class Son extends Father{
   String  sname="ibrar";
 }
  void main(){
